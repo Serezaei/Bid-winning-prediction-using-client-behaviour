@@ -7,3 +7,5 @@ What is the probability that client "853a7b24-e6df-494f-9d7f-a7b7330244ec" will 
 What would be the best "System Activity" we could do to increase that probability?
 
 I asnswered those questions using XGBoost and bidirectional LSTM.
+
+The result shows the data is highly biased and getting a solid response is not possible using ML.
